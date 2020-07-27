@@ -62,8 +62,8 @@ I also have spent some time helping out [Archive Team](https://www.archiveteam.o
 *I place a great emphasis on my tooling – my belief is that the more familiar I am with my tools, the better I am equipped to solve the problems I want to solve.*
 
 I usually write code in [Spacemacs](https://www.spacemacs.org/) (basically emacs + vim) or [Vim (neovim)](https://neovim.io/) and spend most of my time in terminal ([iTerm2]()). My dotfiles (somewhat up to date) are [here](https://github.com/InnovativeInventor/dotfiles). 
-I usually use [screen](https://linux.die.net/man/1/screen) over [mosh](https://mosh.org/) to remotely access and develop, but sometimes I use good old-fashioned ssh. 
-For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I much prefer the latter).
+I usually use [screen](https://linux.die.net/man/1/screen) over [mosh](https://mosh.org/) to remotely work and develop, but sometimes I use good old-fashioned ssh. 
+For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I prefer the latter).
 
 <br>
 
