@@ -1,7 +1,7 @@
 # Max Fan
 👋 I love to hack, make, and create! 
 I'm a senior at Choate Rosemary Hall (a high school) and president of Choate Programming Union, a club that aims to foster a love of programming amongst all students.
-I'm also an amateur radio operation ([General class](http://www.arrl.org/ham-radio-licenses)) – my callsign is KC1LTV. 
+I'm also an amateur radio operator ([general class](http://www.arrl.org/ham-radio-licenses)) – my callsign is KC1LTV. 
 I mainly focus on crypto/security related things, although I have a lot of interests. 
 
 Here are several of my more interesting recent open-source projects (in no particular order):
@@ -59,10 +59,10 @@ I also have spent some time helping out [Archive Team](https://www.archiveteam.o
 # 🧰 Tooling
 *I place a great emphasis on my tooling – my belief is that the more familiar I am with my tools, the better I am equipped to solve the problems I want to solve.*
 
-I usually write code in Spacemacs (basically emacs + vim) or [Vim (neovim)](https://neovim.io/) and spend most of my time in terminal ([iTerm2]()). My dotfiles (somewhat up to date) are here: https://github.com/InnovativeInventor/dotfiles. I usually use [screen](https://linux.die.net/man/1/screen) over [mosh](https://mosh.org/) to remotely access and develop, but sometimes I use good old-fashioned ssh. For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I much prefer the latter).
+I usually write code in [Spacemacs](https://www.spacemacs.org/) (basically emacs + vim) or [Vim (neovim)](https://neovim.io/) and spend most of my time in terminal ([iTerm2]()). My dotfiles (somewhat up to date) are [here](https://github.com/InnovativeInventor/dotfiles). 
+I usually use [screen](https://linux.die.net/man/1/screen) over [mosh](https://mosh.org/) to remotely access and develop, but sometimes I use good old-fashioned ssh. 
+For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I much prefer the latter).
 
 <br>
 
-*(Is this latest GitHub feature* **gimmicky**? *Yeah, ^^ it certainly looks like it is!)*
-
-Written in Vim.
+*(Is this latest GitHub feature* **gimmicky**? *Yeah, ^^ it certainly looks like it is!)* Written in Vim.
