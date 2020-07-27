@@ -17,7 +17,7 @@ Here are several of my more interesting recent open-source projects (in no parti
 - **[Secure Secret Santa](https://github.com/InnovativeInventor/SSS):** Secure Secret Santa (flavored with a medley cryptographic security proofs and anonymity-preserving properties) 
 
 - **[Trustless Random Beacon](https://github.com/InnovativeInventor/random-tournament-beacon):** A secure randomness beacon using the Bitcoin blockchain, repeatedly applied hashes, and opentimestamps.
-> This was used to generate demonstrably random pairings of a chess tournament. 
+> This was used to generate demonstrably random pairings of a chess tournament to great success! 
 
 - **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker 
 
@@ -49,7 +49,7 @@ I also have spent some time helping out [Archive Team](https://www.archiveteam.o
 
 - **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Currently live on efnet/#archivebot. 
 
-### Misc
+### ➕ Misc
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. Currently in production to ~ 1000 people.
 
 - **[mongoset](https://github.com/TadpoleTutoring/mongoset):** A super-Pythonic way to interact with MongoDB with good defaults. Drop in replacement for [dataset](https://github.com/pudo/dataset).
