@@ -39,6 +39,8 @@ Here are several of my more interesting recent open-source projects (in no parti
 ### 📖 Machine Learning
 - **[chesscompress](https://github.com/InnovativeInventor/chesscompress):** Working towards state-of-the-art chess move compression (~90% compression)
 
+- **[deeppacket](https://github.com/InnovativeInventor/deeppacket):** GAN to fool deep packent inspection (DPI) and circumvent censorship
+
 - **[TrumpTweets](https://github.com/InnovativeInventor/TrumpTweet):** Machine generated Trump-like tweets 
 
 
