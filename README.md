@@ -1,5 +1,5 @@
 # Max Fan
-👋 I love to hack, make, and create! 
+I love to hack, make, and create! 
 I'm a senior at Choate Rosemary Hall (a high school) and president of [Choate Programming Union](https://github.com/ChoateProgrammingUnion), a club that aims to foster a love of programming amongst all students.
 I'm also an amateur radio operator ([general class](http://www.arrl.org/ham-radio-licenses)) – my callsign is KC1LTV. 
 I mainly focus on crypto/security related things, although I have a variety of other interests.
