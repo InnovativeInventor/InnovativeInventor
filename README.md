@@ -52,9 +52,12 @@ I also have spent some time helping out [Archive Team](https://www.archiveteam.o
 - **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Currently live on efnet/#archivebot. 
 
 ### ➕ Misc
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing the Choate housing allocation system with Monte Carlo Markov Chains and constraint optimizer techniques.
+
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. Currently in production to ~ 1000 people.
 
 - **[mongoset](https://github.com/TadpoleTutoring/mongoset):** A super-Pythonic way to interact with MongoDB with good defaults. Drop in replacement for [dataset](https://github.com/pudo/dataset).
+
 
 <br>
 
