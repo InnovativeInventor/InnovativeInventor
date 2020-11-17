@@ -14,8 +14,6 @@ Here are several of my more interesting recent open-source projects (in no parti
 
 - **[constant-time-benchmark](https://github.com/InnovativeInventor/constant-time-benchmark):** Benchmarking various supposedly constant time algorithms to validate various cryptographic implementations against side-channel attacks in Golang
 
-- **[Secure Secret Santa](https://github.com/InnovativeInventor/SSS):** Secure Secret Santa (flavored with a medley cryptographic security proofs and anonymity-preserving properties) 
-
 - **[Trustless Random Beacon](https://github.com/InnovativeInventor/random-tournament-beacon):** A secure randomness beacon using the Bitcoin blockchain, repeatedly applied hashes, and opentimestamps.
 > This was used to generate demonstrably random pairings of a chess tournament to great success! 
 
