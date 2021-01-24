@@ -7,7 +7,7 @@ I mainly focus on crypto/security related things, although I have a variety of o
 As of 2020-12-31, `140/207` of my repositories are public. Here are several of my more interesting recent open-source projects (in no particular order and in varying degrees of completion).
 
 ### ➕ Misc
-- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing the Choate housing allocation system with Monte Carlo Markov Chains and constraint optimizer techniques.
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the Choate housing allocation system with Monte Carlo Markov Chains and constraint optimizer techniques with the goal of replacing the current lottery-based system.
 
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in redistricting.
 
