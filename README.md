@@ -66,8 +66,8 @@ I also have spent some time helping out [Archive Team](https://www.archiveteam.o
 # 🧰 Tooling
 *I place a great emphasis on my tooling – my belief is that the more familiar I am with my tools, the better I am equipped to solve the problems I want to solve.*
 
-I usually write code in emacs and spend most of my time on my computer in terminal. My dotfiles (somewhat up to date) are [here](https://github.com/InnovativeInventor/dotfiles). 
-I usually use [screen](https://linux.die.net/man/1/screen) over [mosh](https://mosh.org/) to remotely work and develop, but sometimes I use good old-fashioned ssh (using mosh (via Blink) on my school-issued iPad plus a bluetooth keyboard can be very productive!). 
+I usually write code in emacs and spend most of my time on my computer in terminal (alacritty). My dotfiles (somewhat up to date) are [here](https://github.com/InnovativeInventor/dotfiles). 
+I usually use tmux over [mosh](https://mosh.org/) to remotely work and develop, but sometimes I use good old-fashioned ssh (using mosh (via Blink) on my school-issued iPad plus a bluetooth keyboard can be very productive!). 
 For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I prefer the latter).
 
 *(Is this latest GitHub feature* **gimmicky**? *Yeah, ^^ it certainly looks like it is!)* Written in emacs ([doom-emacs](https://github.com/hlissner/doom-emacs)).
