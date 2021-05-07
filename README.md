@@ -11,11 +11,13 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in redistricting.
 
-- **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. Currently in production to ~ 1000 people.
+- **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
 - **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the [dataset](https://github.com/pudo/dataset) library.
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
+
+- **[non-attacking-queens](https://github.com/InnovativeInventor/non-attacking-queens)** Calculations and generalizations for the [non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a novel, generalized node-contraction algorithim to achieve an improvement over previous calculations in the literature. Written in Rust!
 
 - **[gsimplify](https://github.com/ChoateProgrammingUnion/gsimplify)** A Google Drive to html compiler. Google Drive is ubiquitous for writing and its collaboration and real-time editing features are the best out there. `gsimplify` aims to create a lightweight, more intuitive CMS system powered by Google Drive/docs that compiles a Google drive folder to a fully fledged website. Currently in development for usage in Choate's Student Council website.
 
