@@ -9,6 +9,8 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 ### ➕ Misc
 - **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the Choate housing allocation system with Monte Carlo Markov Chains and constraint optimizer techniques with the goal of replacing the current lottery-based system.
 
+- **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a novel, generalized node-contraction algorithim to achieve improvements over previous calculations in the literature. Written in Rust!
+
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in redistricting.
 
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
@@ -16,8 +18,6 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 - **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the [dataset](https://github.com/pudo/dataset) library.
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
-
-- **[non-attacking-queens](https://github.com/InnovativeInventor/non-attacking-queens)** Calculations and generalizations for the [non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a novel, generalized node-contraction algorithim to achieve an improvement over previous calculations in the literature. Written in Rust!
 
 - **[gsimplify](https://github.com/ChoateProgrammingUnion/gsimplify)** A Google Drive to html compiler. Google Drive is ubiquitous for writing and its collaboration and real-time editing features are the best out there. `gsimplify` aims to create a lightweight, more intuitive CMS system powered by Google Drive/docs that compiles a Google drive folder to a fully fledged website. Currently in development for usage in Choate's Student Council website.
 
@@ -32,7 +32,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 - **[Trustless Random Beacon](https://github.com/InnovativeInventor/random-tournament-beacon):** A secure randomness beacon using sequentially applied hashes and hash commitments on the Bitcoin blockchain.
 > This was used to generate demonstrably random pairings of a chess tournament to great success! 
 
-- **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker.
+- **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker. Currently deprecated.
 
 - **[CTFtools](https://github.com/InnovativeInventor/CTFtools):** Tools for cybersecurity (CTF) competitions. Used by Choate Programming Union's CTF team to win 8th place nationally at picoCTF.
 
@@ -61,9 +61,9 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 ### 🗄️ Archive Team
 I also have spent some time helping out [Archive Team](https://www.archiveteam.org/) by writing software that smartly queues some archiving jobs onto ~100 servers through an IRC interface.
 
-- **[queuebot](https://github.com/InnovativeInventor/queuebot):** A smart autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Live on efnet/#archivebot. 
+- **[queuebot](https://github.com/InnovativeInventor/queuebot):** A smart autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. 
 
-- **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Currently live on efnet/#archivebot. 
+- **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Was live on efnet/#archivebot. 
 
 # 🧰 Tooling
 *I place a great emphasis on my tooling – my belief is that the more familiar I am with my tools, the better I am equipped to solve the problems I want to solve.*
