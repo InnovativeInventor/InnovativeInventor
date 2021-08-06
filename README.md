@@ -1,4 +1,3 @@
-# Max Fan
 I love to hack, make, and create! 
 I'm a senior at Choate Rosemary Hall (a high school) and president of [Choate Programming Union](https://cpu.party), a club that aims to foster a love of programming amongst all students.
 I'm also a ham radio operator ([general class](http://www.arrl.org/ham-radio-licenses)) – my callsign is `KC1LTV`. 
@@ -7,15 +6,15 @@ I mainly focus on crypto/security related things, although I have a variety of o
 As of 2020-12-31, `140/207` of my repositories are public. Here are several of my more interesting recent open-source projects (in no particular order and in varying degrees of completion).
 
 ### ➕ Misc
-- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the Choate housing allocation system with Monte Carlo Markov Chains and constraint optimizer techniques with the goal of replacing the current lottery-based system.
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the Choate housing allocation system with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based allocation system.
 
-- **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a novel, generalized node-contraction algorithim to achieve improvements over previous calculations in the literature. Written in Rust!
+- **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a novel, generalized node-contraction algorithm to achieve improvements over previous calculations in the literature. Written in Rust!
 
-- **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in redistricting.
+- **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in processing data products for redistricting and calculating precinct stability. Messy code!
 
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
-- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the [dataset](https://github.com/pudo/dataset) library.
+- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the [dataset](https://github.com/pudo/dataset) SQL library.
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
 
@@ -38,10 +37,6 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[timestamp-api](https://github.com/InnovativeInventor/timestamp-api):** A HTTP api for timestamping via opentimestamps (with attestations on the Bitcoin blockchain).
 
-- **[securechecks](https://github.com/InnovativeInventor/securechecks):** Small security tools and scripts to lock down and prevent pwnage. 
-
-- **[constant-time-benchmark](https://github.com/InnovativeInventor/constant-time-benchmark):** Benchmarking various supposedly constant time algorithms to validate various cryptographic implementations against side-channel attacks in Golang.
-
 ### ⚙️ Theory of Computation
 - **[pylambda](https://github.com/InnovativeInventor/pylambda):** A Turing complete, experimental prototype programming language based off lambda calculus in Python 
 
@@ -55,19 +50,16 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[deeppacket](https://github.com/InnovativeInventor/deeppacket):** GAN to fool deep packent inspection (DPI) and circumvent censorship.
 
-- **[TrumpTweets](https://github.com/InnovativeInventor/TrumpTweet):** Machine generated Trump-like tweets.
-
 
 ### 🗄️ Archive Team
 I also have spent some time helping out [Archive Team](https://www.archiveteam.org/) by writing software that smartly queues some archiving jobs onto ~100 servers through an IRC interface.
 
-- **[queuebot](https://github.com/InnovativeInventor/queuebot):** A smart autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. 
+- **[queuebot](https://github.com/InnovativeInventor/queuebot):** A smart autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. Messy code!
 
-- **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Was live on efnet/#archivebot. 
+- **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Was live on efnet/#archivebot. Messy code!
+
 
 # 🧰 Tooling
-*I place a great emphasis on my tooling – my belief is that the more familiar I am with my tools, the better I am equipped to solve the problems I want to solve.*
-
 I usually write code in emacs and spend most of my time on my computer in terminal (alacritty). My dotfiles (somewhat up to date) are [here](https://github.com/InnovativeInventor/dotfiles). 
 I usually use tmux over [mosh](https://mosh.org/) to remotely work and develop, but sometimes I use good old-fashioned ssh (using mosh (via Blink) on my school-issued iPad plus a bluetooth keyboard can be very productive!). 
 For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I prefer the latter).
