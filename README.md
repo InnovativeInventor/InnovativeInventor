@@ -1,20 +1,24 @@
 I love to hack, make, and create! 
-I'm a senior at Choate Rosemary Hall (a high school) and president of [Choate Programming Union](https://cpu.party), a club that aims to foster a love of programming amongst all students.
+I'm currently a freshman at the University of Illinois at Urbana-Champaign.
+Formerly, I ws president of [Choate Programming Union](https://cpu.party) (my high school CS club).
 I'm also a ham radio operator ([general class](http://www.arrl.org/ham-radio-licenses)) – my callsign is `KC1LTV`. 
 I mainly focus on crypto/security related things, although I have a variety of other interests.
+More recently, I've been doing redistricting work at the [MGGG redistricting lab](https://mggg.org/).
 
 As of 2020-12-31, `140/207` of my repositories are public. Here are several of my more interesting recent open-source projects (in no particular order and in varying degrees of completion).
 
 ### ➕ Misc
-- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the Choate housing allocation system with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based allocation system.
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the Choate Rosemary Hall housing allocation system with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based allocation system.
 
-- **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a novel, generalized node-contraction algorithm to achieve improvements over previous calculations in the literature. Written in Rust!
+- **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a generalized node-contraction algorithm to achieve improvements over previous calculations in the literature. Written in Rust!
 
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in processing data products for redistricting and calculating precinct stability. Messy code!
 
-- **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
+- **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
-- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the [dataset](https://github.com/pudo/dataset) SQL library.
+- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the Python [dataset](https://github.com/pudo/dataset) SQL library.
+
+- **[pcompress](https://github.com/InnovativeInventor/pcompress)** Highly efficient compression of districting plans for speeding up gerrymandering research and improving reproducibility.
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
 
@@ -22,9 +26,9 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 
 ### 🔑 Cryptography and Security
-- **[dropbox-timestamp](https://github.com/InnovativeInventor/dropbox-timestamp):** Automatic and trustless cryptographic timestamping in Dropbox (with attestations uploaded to Bitcoin) 
+- **[dropbox-timestamp](https://github.com/InnovativeInventor/dropbox-timestamp):** Automatic and trustless cryptographic timestamping in Dropbox (with attestations uploaded to Bitcoin). Merkle trees rock! 
 
-- **[pylamport](https://github.com/InnovativeInventor/pylamport):** A python library for generating cryptographic [Lamport](https://en.wikipedia.org/wiki/Lamport_signature) signatures.
+- **[pylamport](https://github.com/InnovativeInventor/pylamport):** A Python library for generating cryptographic [Lamport](https://en.wikipedia.org/wiki/Lamport_signature) signatures.
 
 - **[homomorphic-encryption](https://github.com/InnovativeInventor/homomorphic-encryption):** Basic homomorphic algebraic operators encrypted with LWE utilizing GPU acceleration and ripple adders. Uses the [NuFHE library](https://github.com/nucypher/nufhe).
 
@@ -46,7 +50,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 
 ### 📖 Machine Learning
-- **[chesscompress](https://github.com/InnovativeInventor/chesscompress):** Working towards state-of-the-art chess move compression (~90% compression) with asymmetric numeral systems.
+- **[chesscompress](https://github.com/InnovativeInventor/chesscompress):** Chess move compression for efficient storage of chess games (~90% compression) with asymmetric numeral systems.
 
 - **[deeppacket](https://github.com/InnovativeInventor/deeppacket):** GAN to fool deep packent inspection (DPI) and circumvent censorship.
 
@@ -62,6 +66,6 @@ I also have spent some time helping out [Archive Team](https://www.archiveteam.o
 # 🧰 Tooling
 I usually write code in emacs and spend most of my time on my computer in terminal (alacritty). My dotfiles (somewhat up to date) are [here](https://github.com/InnovativeInventor/dotfiles). 
 I usually use tmux over [mosh](https://mosh.org/) to remotely work and develop, but sometimes I use good old-fashioned ssh (using mosh (via Blink) on my school-issued iPad plus a bluetooth keyboard can be very productive!). 
-For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced soon) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I prefer the latter).
+For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced in the future) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I prefer the latter).
 
-*(Is this latest GitHub feature* **gimmicky**? *Yeah, ^^ it certainly looks like it is!)* Written in emacs ([doom-emacs](https://github.com/hlissner/doom-emacs)).
+*(Is this latest GitHub feature* **gimmicky**? *Yeah, ^^ it certainly looks like it is!)* Written in ([doom emacs](https://github.com/hlissner/doom-emacs)).
