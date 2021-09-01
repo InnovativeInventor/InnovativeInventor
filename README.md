@@ -42,7 +42,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 - **[timestamp-api](https://github.com/InnovativeInventor/timestamp-api):** A HTTP api for timestamping via opentimestamps (with attestations on the Bitcoin blockchain).
 
 ### ⚙️ Theory of Computation
-- **[pylambda](https://github.com/InnovativeInventor/pylambda):** A Turing complete, experimental prototype programming language based off lambda calculus in Python 
+- **[pylambda](https://github.com/InnovativeInventor/pylambda):** A lambda calculus implementation in Python.
 
 > This project was a weekend project – I plan to revisit this soon and add some types!
 
