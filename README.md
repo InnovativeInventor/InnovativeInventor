@@ -2,7 +2,7 @@ I love to hack, make, and create!
 I'm currently a freshman at the University of Illinois at Urbana-Champaign.
 Formerly, I was president of [Choate Programming Union](https://cpu.party) (my high school CS club).
 I'm also a ham radio operator ([general class](http://www.arrl.org/ham-radio-licenses)) – my callsign is `KC1LTV`. 
-I mainly focus on crypto/security related things, although I have a variety of other interests.
+I'm interested in cryptography/security related things, although I have a variety of other interests.
 More recently, I've been doing computational redistricting work at the non-partisan [MGGG redistricting lab](https://mggg.org/).
 
 As of 2020-12-31, `140/207` of my repositories are public. Here are several of my more interesting recent open-source projects (in no particular order and in varying degrees of completion).
