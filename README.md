@@ -1,5 +1,5 @@
 I love to hack, make, and create! 
-I'm currently a freshman at the University of Illinois at Urbana-Champaign.
+I'm currently a student at the University of Illinois at Urbana-Champaign.
 Formerly, I was president of [Choate Programming Union](https://cpu.party) (my high school CS club).
 I'm also a ham radio operator ([general class](http://www.arrl.org/ham-radio-licenses)) – my callsign is `KC1LTV`. 
 I'm interested in cryptography/security related things, although I have a variety of other interests.
