@@ -10,11 +10,11 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 ### ➕ Misc
 - **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a generalized node-contraction algorithm to achieve improvements over previous calculations in the literature. Written in Rust!
 
-- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Optimizing and automating the dorm housing allocation system with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based housing allocation system.
-
 - **[pcompress](https://github.com/InnovativeInventor/pcompress)** Highly efficient compression of districting plans for speeding up gerrymandering research and improving reproducibility. An ergonomic tool meant as a drop-in, faster alternative to standard [GerryChain](https://github.com/mggg/GerryChain) analysis.
 
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in processing data products for redistricting and calculating precinct stability. Messy code!
+
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Researching dorm housing allocation systems and optimization techniques with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based housing allocation system at Choate Rosemary Hall.
 
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
@@ -58,7 +58,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 ### 🗄️ Archive Team
 I also have spent some time helping out [Archive Team](https://www.archiveteam.org/) by writing software that smartly queues some archiving jobs onto ~100 servers through an IRC interface.
 
-- **[queuebot](https://github.com/InnovativeInventor/queuebot):** A smart autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. Messy code!
+- **[queuebot](https://github.com/InnovativeInventor/queuebot):** An autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. Messy code!
 
 - **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Was live on efnet/#archivebot. Messy code!
 
@@ -68,4 +68,4 @@ I usually write code in emacs and spend most of my time on my computer in termin
 I usually use tmux over [mosh](https://mosh.org/) to remotely work and develop, but sometimes I use good old-fashioned ssh (using mosh (via Blink) on my school-issued iPad plus a bluetooth keyboard can be very productive!). 
 For IRC, I use [WeeChat](https://weechat.org/) with several custom plugins and filters (may be open-sourced in the future) and my nick is usually `maxfan8` (you can find me on [efnet](http://www.efnet.org/) and [hackint](https://hackint.org/), although I prefer the latter).
 
-*(Is this latest GitHub feature* **gimmicky**? *Yeah, ^^ it certainly looks like it is!)* Written in ([doom emacs](https://github.com/hlissner/doom-emacs)).
+Written in ([doom emacs](https://github.com/hlissner/doom-emacs)).
