@@ -10,11 +10,11 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 ### ➕ Misc
 - **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a generalized node-contraction algorithm to achieve improvements over previous calculations in the literature. Written in Rust!
 
-- **[pcompress](https://github.com/InnovativeInventor/pcompress)** Highly efficient compression of districting plans for speeding up gerrymandering research and improving reproducibility. An ergonomic tool meant as a drop-in, faster alternative to standard [GerryChain](https://github.com/mggg/GerryChain) analysis.
+- **[pcompress](https://github.com/InnovativeInventor/pcompress)** Highly efficient compression of districting plans for speeding up gerrymandering research and improving reproducibility. An ergonomic tool meant as a drop-in, faster alternative to standard [GerryChain](https://github.com/mggg/GerryChain) analysis. Currently the main method of running and analyzing experiments at the [MGGG redistricting lab](https://mggg.org/).
 
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in processing data products for redistricting and calculating precinct stability. Messy code!
 
-- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Researching dorm housing allocation systems and optimization techniques with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based housing allocation system at Choate Rosemary Hall.
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Researching dorm housing allocation systems and optimization techniques with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based housing allocation system at Choate Rosemary Hall. Achieved a 15% decrease in the number of students who didn't get their first choice when simulated on *real historical data*.
 
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
@@ -22,7 +22,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
 
-- **[gsimplify](https://github.com/ChoateProgrammingUnion/gsimplify)** A Google Drive to html compiler. Google Drive is ubiquitous for writing and its collaboration and real-time editing features are the best out there. `gsimplify` aims to create a lightweight, more intuitive CMS system powered by Google Drive/docs that compiles a Google drive folder to a fully fledged website. Currently in development for usage in Choate's Student Council website.
+- **[gsimplify](https://github.com/ChoateProgrammingUnion/gsimplify)** A Google Drive to html compiler. Google Drive is ubiquitous for writing and its collaboration and real-time editing features are the best out there. `gsimplify` aims to create a lightweight, more intuitive CMS system powered by Google Drive/docs that compiles a Google drive folder to a fully fledged website. Intended for usage by a non-technical audience. Was in development for usage in Choate's Student Council website.
 
 
 ### 🔑 Cryptography and Security
