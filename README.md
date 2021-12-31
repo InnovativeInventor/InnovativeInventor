@@ -35,11 +35,11 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 - **[Trustless Random Beacon](https://github.com/InnovativeInventor/random-tournament-beacon):** A secure randomness beacon using cryptographic commitments on the Bitcoin blockchain and sequentially applied hashes (as time locks). Can be used to generate "nothing up my sleeve" seeds.
 > This was used to generate demonstrably random pairings for a chess tournament I was running to great success! 
 
-- **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker. Currently deprecated.
-
 - **[CTFtools](https://github.com/InnovativeInventor/CTFtools):** Tools for cybersecurity (CTF) competitions. Used by Choate Programming Union's CTF team to win 8th place nationally at picoCTF.
 
 - **[timestamp-api](https://github.com/InnovativeInventor/timestamp-api):** A HTTP api for timestamping via opentimestamps (with attestations on the Bitcoin blockchain).
+
+- **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker. Currently deprecated.
 
 ### ⚙️ Theory of Computation
 - **[hack-python-types](https://github.com/InnovativeInventor/hack-python-types):** Hacking Python’s type-checker to construct a propositional, constructive logic theorem prover via the Curry-Howard correspondence and the BHK interpretation of intuitionistic logic. ([see blog post](https://max.fan/posts/hacking-python-types/)) 
