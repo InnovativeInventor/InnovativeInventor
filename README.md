@@ -18,7 +18,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
-- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** An idiomatic, Pythonic way to interact with MongoDB with good defaults. Drop in replacement for the Python [dataset](https://github.com/pudo/dataset) SQL library.
+- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** A Pythonic library to interact with MongoDB with good defaults. Drop-in replacement for the Python [dataset](https://github.com/pudo/dataset) SQL library. Check out the docs [here](http://mongoset.max.fan).
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
 
