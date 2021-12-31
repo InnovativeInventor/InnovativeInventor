@@ -42,6 +42,8 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 - **[timestamp-api](https://github.com/InnovativeInventor/timestamp-api):** A HTTP api for timestamping via opentimestamps (with attestations on the Bitcoin blockchain).
 
 ### ⚙️ Theory of Computation
+- **[hack-python-types](https://github.com/InnovativeInventor/hack-python-types):** Hacking Python’s type-checker to construct a propositional, constructive logic theorem prover via the Curry-Howard correspondence and the BHK interpretation of intuitionistic logic. ([see blog post](https://max.fan/posts/hacking-python-types/)) 
+
 - **[pylambda](https://github.com/InnovativeInventor/pylambda):** A lambda calculus implementation in Python.
 
 > This project was a weekend project – I plan to revisit this soon and add some types!
