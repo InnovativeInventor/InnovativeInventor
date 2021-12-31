@@ -32,8 +32,8 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[homomorphic-encryption](https://github.com/InnovativeInventor/homomorphic-encryption):** Basic homomorphic algebraic operators encrypted with LWE utilizing GPU acceleration and ripple adders. Uses the [NuFHE library](https://github.com/nucypher/nufhe).
 
-- **[Trustless Random Beacon](https://github.com/InnovativeInventor/random-tournament-beacon):** A secure randomness beacon using sequentially applied hashes and hash commitments on the Bitcoin blockchain.
-> This was used to generate demonstrably random pairings of a chess tournament to great success! 
+- **[Trustless Random Beacon](https://github.com/InnovativeInventor/random-tournament-beacon):** A secure randomness beacon using cryptographic commitments on the Bitcoin blockchain and sequentially applied hashes (as time locks). Can be used to generate "nothing up my sleeve" seeds.
+> This was used to generate demonstrably random pairings for a chess tournament I was running to great success! 
 
 - **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker. Currently deprecated.
 
