@@ -58,7 +58,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 
 ### 🗄️ Archive Team
-I also have spent some time helping out [Archive Team](https://www.archiveteam.org/) by writing software that smartly queues some archiving jobs onto ~100 servers through an IRC interface.
+I also have spent some time helping out [Archive Team](https://www.archiveteam.org/) by writing software that smartly queues some archiving jobs onto ~100 servers through an IRC interface. This code is quick and messy and totally deserves a thoughtful rewrite. But, hey -- it works (kinda)!
 
 - **[queuebot](https://github.com/InnovativeInventor/queuebot):** An autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. Messy code!
 
