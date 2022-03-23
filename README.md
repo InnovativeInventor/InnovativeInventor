@@ -18,11 +18,9 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
 
-- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** A Pythonic library to interact with MongoDB with good defaults. Drop-in replacement for the Python [dataset](https://github.com/pudo/dataset) SQL library. Check out the docs [here](http://mongoset.max.fan).
+- **[mongoset](https://github.com/TadpoleTutoring/mongoset):** A Pythonic ORM library to interact with MongoDB with good defaults. Drop-in replacement for the Python [dataset](https://github.com/pudo/dataset) SQL library. Check out the docs [here](http://mongoset.max.fan).
 
 - **[pbutil](https://github.com/InnovativeInventor/pbutil)** Cross-platform implementation of macOS's pbcopy and pbpaste in Rust. Helps make transitioning from macOS -> Linux easier.
-
-- **[gsimplify](https://github.com/ChoateProgrammingUnion/gsimplify)** A Google Drive to html compiler. Google Drive is ubiquitous for writing and its collaboration and real-time editing features are the best out there. `gsimplify` aims to create a lightweight, more intuitive CMS system powered by Google Drive/docs that compiles a Google drive folder to a fully fledged website. Intended for usage by a non-technical audience. Was in development for usage in Choate's Student Council website.
 
 
 ### 🔑 Cryptography and Security
@@ -36,10 +34,6 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 > This was used to generate demonstrably random pairings for a chess tournament I was running to great success! 
 
 - **[CTFtools](https://github.com/InnovativeInventor/CTFtools):** Tools for cybersecurity (CTF) competitions. Used by Choate Programming Union's CTF team to win 8th place nationally at picoCTF.
-
-- **[timestamp-api](https://github.com/InnovativeInventor/timestamp-api):** A HTTP api for timestamping via opentimestamps (with attestations on the Bitcoin blockchain).
-
-- **[monobox](https://github.com/InnovativeInventor/monobox):** A flexible, simple, (and secure) tool for rapidly coding, testing, and deploying applications using Docker. Currently deprecated.
 
 ### ⚙️ Theory of Computation
 - **[hack-python-types](https://github.com/InnovativeInventor/hack-python-types):** Hacking Python’s type-checker to construct a propositional, constructive logic theorem prover via the Curry-Howard correspondence and the BHK interpretation of intuitionistic logic. ([see blog post](https://max.fan/posts/hacking-python-types/)) 
