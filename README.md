@@ -35,7 +35,7 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[CTFtools](https://github.com/InnovativeInventor/CTFtools):** Tools for cybersecurity (CTF) competitions. Used by Choate Programming Union's CTF team to win 8th place nationally at picoCTF.
 
-### ⚙️ Theory of Computation
+### ⚙️ Logic and Computation
 - **[hack-python-types](https://github.com/InnovativeInventor/hack-python-types):** Hacking Python’s type-checker to construct a propositional, constructive logic theorem prover via the Curry-Howard correspondence and the BHK interpretation of intuitionistic logic. ([see blog post](https://max.fan/posts/hacking-python-types/)) 
 
 - **[pylambda](https://github.com/InnovativeInventor/pylambda):** A lambda calculus implementation in Python.
@@ -44,6 +44,9 @@ As of 2020-12-31, `140/207` of my repositories are public. Here are several of m
 
 - **[lambda-etudes](https://github.com/InnovativeInventor/lambda-etudes)**  Little exercises in lambda calculus to derive and practice my lambda-fu in a typed functional language. Haskell!!! Inspired by the exercises in [Introduction to Lambda Calculus](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf) by Henk Barendregt and Erik Barendsen.
 
+- **[tree-logics](https://github.com/InnovativeInventor/tree-logics)** Formally verified, shallow embeddings of various tree logics, in Coq, along with some consistency, completness, and soundness proofs.
+
+- **[turing-impl](https://github.com/InnovativeInventor/turing-impl)** A simple Turing machine implementation.
 
 ### 📖 Machine Learning
 - **[chesscompress](https://github.com/InnovativeInventor/chesscompress):** Chess move compression for efficient storage of chess games (~90% compression) with asymmetric numeral systems.
