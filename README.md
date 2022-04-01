@@ -5,7 +5,7 @@ I'm also a ham radio operator ([general class](http://www.arrl.org/ham-radio-lic
 I'm interested in cryptography/security related things, although I have a variety of other interests.
 More recently, I've been doing computational redistricting work at the non-partisan [MGGG redistricting lab](https://mggg.org/).
 
-As of 2020-12-31, `140/207` of my repositories are public. Here are several of my more interesting recent open-source projects (in no particular order and in varying degrees of completion).
+Here are several of my more interesting recent projects (in no particular order and in varying degrees of completion).
 
 ### ➕ Misc
 - **[node-kayles](https://github.com/InnovativeInventor/node-kayles)** Calculations and generalizations for [Node-Kayles](https://cs.uwaterloo.ca/journals/JIS/VOL23/Wong/wong24.pdf)/[non attacking queens problem](https://www.maa.org/sites/default/files/may_2006_-_noon55524.pdf) in combinatorial game theory. Uses a generalized node-contraction algorithm to achieve improvements over previous calculations in the literature. Written in Rust!
