@@ -14,9 +14,9 @@ Here are several of my more interesting recent projects (in no particular order 
 
 - **[geocompose](https://github.com/InnovativeInventor/geocompose)** A library for representing geographical regions as a set of addresses. Intended for use in processing data products for redistricting and calculating precinct stability. Messy code!
 
-- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Researching dorm housing allocation systems and optimization techniques with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based housing allocation system at Choate Rosemary Hall. Achieved a 15% decrease in the number of students who didn't get their first choice when simulated on *real historical data*.
+- **[housing-optimization](https://github.com/ChoateProgrammingUnion/housing-optimization)** Examining dorm housing allocation systems and optimization techniques with Markov Chain Monte Carlo and constraint optimizer techniques with the goal of replacing the current lottery-based housing allocation system at Choate Rosemary Hall. Achieved a 15% decrease in the number of students who didn't get their first choice when simulated on *real historical data*.
 
-- **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall.
+- **[Choate Zoom Coordinator](https://github.com/ChoateProgrammingUnion/zoom-coordinator):** A unified location for discovering Zoom links for attending classes on Zoom. [Was in production](http://web.archive.org/web/20200919175321/https://zoom.choate.edu/) to ~ 1000 people at Choate Rosemary Hall. Messy code!
 
 - **[mongoset](https://github.com/TadpoleTutoring/mongoset):** A Pythonic ORM library to interact with MongoDB with good defaults. Drop-in replacement for the Python [dataset](https://github.com/pudo/dataset) SQL library. Check out the docs [here](http://mongoset.max.fan).
 
@@ -52,14 +52,6 @@ Here are several of my more interesting recent projects (in no particular order 
 - **[chesscompress](https://github.com/InnovativeInventor/chesscompress):** Chess move compression for efficient storage of chess games (~90% compression) with asymmetric numeral systems.
 
 - **[deeppacket](https://github.com/InnovativeInventor/deeppacket):** GAN to fool deep packent inspection (DPI) and circumvent censorship.
-
-
-### 🗄️ Archive Team
-I also have spent some time helping out [Archive Team](https://www.archiveteam.org/) by writing software that smartly queues some archiving jobs onto ~100 servers through an IRC interface. This code is quick and messy and totally deserves a thoughtful rewrite. But, hey -- it works (kinda)!
-
-- **[queuebot](https://github.com/InnovativeInventor/queuebot):** An autoscaling queueing service for archivebot for eventual upload to the Internet Archive's Wayback Machine (WBM). Currently focusing on automatic archival of missing political and governmental twitter accounts. Was live on efnet/#archivebot. Messy code!
-
-- **[archivist](https://github.com/InnovativeInventor/archivist):**  Archiving politically and culturally important social media with archiveteam and archivebot (on IRC) to IA's WBM. Was live on efnet/#archivebot. Messy code!
 
 
 # 🧰 Tooling
