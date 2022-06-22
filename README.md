@@ -38,10 +38,6 @@ Here are several of my more interesting recent projects (in no particular order 
 ### ⚙️ Logic and Computation
 - **[hack-python-types](https://github.com/InnovativeInventor/hack-python-types):** Hacking Python’s type-checker to construct a propositional, constructive logic theorem prover via the Curry-Howard correspondence and the BHK interpretation of intuitionistic logic. ([see blog post](https://max.fan/posts/hacking-python-types/)) 
 
-- **[pylambda](https://github.com/InnovativeInventor/pylambda):** A lambda calculus implementation in Python.
-
-> This project was a weekend project – I plan to revisit this soon and add some types!
-
 - **[lambda-etudes](https://github.com/InnovativeInventor/lambda-etudes)**  Little exercises in lambda calculus to derive and practice my lambda-fu in a typed functional language. Haskell!!! Inspired by the exercises in [Introduction to Lambda Calculus](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf) by Henk Barendregt and Erik Barendsen.
 
 - **[tree-logics](https://github.com/InnovativeInventor/tree-logics)** Formally verified, shallow embeddings of various tree logics, in Coq, along with some consistency, completness, and soundness proofs.
